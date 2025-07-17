@@ -25,13 +25,13 @@ Coba Semua Menu, mulai dari Dashboard, Gallery, Kontak, Rekomendasi, dan juga Bl
 
 🎓 Tentang Project
 
-🎯 Mata Kuliah: Pemrograman Web 1
-📅 Semester: 4
-📌 Jenis Tugas: Web Profil Biodata Diri 
-🧑‍🎓 Nama Developer: Dyah Avri Kartika H
-📫 Kontak Kalau kamu ingin tanya lebih lanjut atau tertarik dengan project ini, silakan hubungi saya:
+🎯 Mata Kuliah: Pemrograman Web 1 <br>
+📅 Semester: 4 <br>
+📌 Jenis Tugas: Web Profil Biodata Diri <br> 
+🧑‍🎓 Nama Developer: Dyah Avri Kartika H <br>
+📫 Kontak Kalau kamu ingin tanya lebih lanjut atau tertarik dengan project ini, silakan hubungi saya: <br>
 
-Email: dyahkartikahapsari@gmai.com
-Instagram: @lievlya
+Email: dyahkartikahapsari@gmai.com <br>
+Instagram: @lievlya <br>
 
  link YT Project https://youtu.be/8ThPhLKvYYc?si=vq0eKSrh9pG8TPzd
